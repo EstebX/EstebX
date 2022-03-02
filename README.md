@@ -5,11 +5,6 @@
 
 ```lua
 local EstebX = "Developper"
-local Languages = {
-  "lua",
-  "js",
-  "php"
-  }
 ```
 
 <!---
