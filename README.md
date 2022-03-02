@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @EstebX
-- 👀 I’m interested in developpement
+- 👀 I’m interested in developement
 - 🌱 I’m currently learning NextJS
 - 📫 contact@esteb-x.dev
 
