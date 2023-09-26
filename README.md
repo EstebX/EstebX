@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @EstebX
-- 👀 I’m interested in developement
-- 🌱 I’m currently learning NextJS
-- 📫 contact@estebx.dev
+- 👋 @EstebX
+- 👀 Développeur français
+- 📫 ee@ecallard.com
 
 ```lua
 local EstebX = "Developper"
